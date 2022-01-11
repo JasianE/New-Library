@@ -2,8 +2,8 @@ import React, {useState, useEffect} from 'react'
 import Nav from './Helpers/Nav'
 import Book from './Helpers/Book'
 import BookForm from './Helpers/BookForm'
-import Overview from './Components/Overview'
-import './App.css'
+import Overview from './Overview'
+import '../App.css'
 
 function Overlay(e){
     //Used for id and number properties in book
